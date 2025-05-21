@@ -1,0 +1,1 @@
+# Segmentation-client-RFM-et-scoring
